@@ -2,6 +2,7 @@
 ### !!警告!!
 ##### 皮肤均来自对搜狗输入法皮肤的移植,仅供个人使用,切勿用于商业用途;
 
+### 部分皮肤演示;
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2014/07/02/14042792144232_former.png)
 
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/07/23/15638527973670_former.gif)
@@ -28,3 +29,45 @@
 
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2020/04/03/15858807057718_former.gif)
 
+
+## 使用前须知:
+```ruby
+1,本人精力实在有限,如果发现bug请先自行研究;
+2,你可以自由传播,但请注明我的github地址;
+3,请勿用于商业用途,以及各种盈利手段;
+```
+
+
+## 安装教程;
+必须工具,***脑子***和***用心***;
+(***不管你使用任何GNU/Linux发行版,都可以使用此方法,前提你必须安装好下面这些;***)
+
+####安装git
+```ruby
+Arch/manjaro pacman -Syy git
+Debian/Ubuntu  apt-get update && apt-get -y install git
+Fedora dnf makecache && dnf -y install git
+```
+
+####安装fcix
+```ruby
+Arch/manjaro { 
+pacman -Syy fcitx fcitx-configtool fcitx-googlepinyin
+cat << EOF > ~/.xprofile
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIRS=''@im=fcitx''
+EOF
+}
+Debian/Ubuntu  apt-get update && apt-get -y install fcitx fcitx-googlepinyin
+Fedora dnf makecache && dnf -y install fcitx fcitx-googlepinyin
+```
+
+
+## 安装fcitx皮肤
+```ruby
+## 配置fcitx
+/usr/share/fcitx/skin/    #fcitx皮肤系统级目录,次目录放置皮肤,所有用户都可使用;
+~/.config/fcitx/skin      #用户级fcitx皮肤目录,仅对当前用户生效;
+~/.config/fcitx/conf/fcitx-classic-ui.config  #fcitx皮肤配置文件修改此文件可更换当前用户fcitx皮肤;
+```
