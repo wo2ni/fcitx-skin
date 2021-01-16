@@ -66,15 +66,20 @@ Fedora dnf makecache && dnf -y install fcitx fcitx-googlepinyin
 
 ## 安装fcitx皮肤
 ```ruby
-## 配置fcitx
+你必须知道的一些配置文件;
+
 /usr/share/fcitx/skin/    #fcitx皮肤系统级目录,次目录放置皮肤,所有用户都可使用;
 ~/.config/fcitx/skin      #用户级fcitx皮肤目录,仅对当前用户生效;
 ~/.config/fcitx/conf/fcitx-classic-ui.config  #fcitx皮肤配置文件修改此文件可更换当前用户fcitx皮肤;
+
+复制下面命令在Terminator中运行;
+if [ -d ~/.config/fcitx/skin/ ]; then  git clone https://github.com/MAN999999999/fcitx-skin.git ~/.config/fcitx/skin; else mkdir -p ~/.config/fcitx/skin &&  git clone https://github.com/MAN999999999/fcitx-skin.git ~/.config/fcitx/skin; fi
+然后用vim,或nano等,修改~/.config/fcitx/conf/fcitx-classic-ui.config 
+fcitx -r  #重启fcitx
+Enjoy
 ```
 
 # 💕特别感谢:💕
-
-|        |             |            |
 |--------|-------------|------------|
 |💕Google💕|💕Youtube💕 |💕Github💕 |
 
