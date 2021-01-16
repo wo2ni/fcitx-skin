@@ -9,6 +9,10 @@
 
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2020/04/07/15862697371423_former.png)
 
+![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/05/27/15589524354055_former.png)
+
+![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/05/27/15589521991642_former.png)
+
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/07/23/15638527973670_former.gif)
 
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/11/11/15734856135635_former.gif)
@@ -23,20 +27,12 @@
 
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2016/08/30/14725473519232_former.jpg)
 
-![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/05/27/15589524354055_former.png)
-
-![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/05/27/15589521991642_former.png)
-
-![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2020/04/03/15858807057718_former.gif)
-
-
 ## 使用前须知:
 ```ruby
 1,本人精力实在有限,如果发现bug请先自行研究;
 2,你可以自由传播,但请注明我的github地址;
 3,请勿用于商业用途,以及各种盈利手段;
 ```
-
 
 ## 安装教程;
 必须工具,***脑子***和***用心***;
