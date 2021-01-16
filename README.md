@@ -9,6 +9,8 @@
 
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2020/04/07/15862697371423_former.png)
 
+![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2016/06/28/14671001506148_former.gif)
+
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/05/27/15589524354055_former.png)
 
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/10/23/15718259392751_former.png)
@@ -21,11 +23,8 @@
 
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/11/11/15734856135635_former.gif)
 
-![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2016/06/28/14671001506148_former.gif)
-
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/07/29/15643605903600_former.png)
 
-![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2016/08/30/14725473519232_former.jpg)
 
 ## 使用前须知:
 ```ruby
