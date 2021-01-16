@@ -1,2 +1,11 @@
-# Fcitx输入发皮肤;
+# Fcitx输入法,皮肤,此皮肤出于对搜狗输入法皮肤的移植,为了版权的问题,请不要用于商业用途;
 ![image](https://github.com/MAN999999999/fcitx-skin/blob/main/Image/LISA.png)
+![image](https://github.com/MAN999999999/fcitx-skin/blob/main/Image/%E5%91%8A%E7%99%BD.png)
+![image](https://github.com/MAN999999999/fcitx-skin/blob/main/Image/%E5%A4%9C%E6%A2%A6%E6%98%9F%E8%BE%B0.png)
+![image](https://github.com/MAN999999999/fcitx-skin/blob/main/Image/%E5%A4%9C%E7%A9%BA%E6%98%9F.png)
+![image](https://github.com/MAN999999999/fcitx-skin/blob/main/Image/%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.png)
+![image](https://github.com/MAN999999999/fcitx-skin/blob/main/Image/%E7%88%B1%E4%BD%A0%E4%B8%89%E5%8D%83%E9%81%8D.png)
+![image](https://github.com/MAN999999999/fcitx-skin/blob/main/Image/%E7%94%B5%E8%B7%AF.png)
+![image](https://github.com/MAN999999999/fcitx-skin/blob/main/Image/%E9%85%B7.png)
+![image](https://github.com/MAN999999999/fcitx-skin/blob/main/Image/%E7%90%89%E7%92%83%E8%8A%B1.png)
+![image](https://github.com/MAN999999999/fcitx-skin/blob/main/Image/%E6%B5%B7%E3%81%AE%E7%9C%BC%E6%B3%AA.png)
