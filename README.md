@@ -71,3 +71,12 @@ Fedora dnf makecache && dnf -y install fcitx fcitx-googlepinyin
 ~/.config/fcitx/skin      #用户级fcitx皮肤目录,仅对当前用户生效;
 ~/.config/fcitx/conf/fcitx-classic-ui.config  #fcitx皮肤配置文件修改此文件可更换当前用户fcitx皮肤;
 ```
+
+# 💕特别感谢:💕
+
+|        |             |            |
+|--------|-------------|------------|
+|💕Google💕|💕Youtube💕 |💕Github💕 |
+
+
+- [→ 永久的Github地址](https://github.com/MAN999999999/)
