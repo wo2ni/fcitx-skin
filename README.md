@@ -44,14 +44,14 @@
 
 #### 安装git
 ```ruby
-Arch/manjaro pacman -Syy git
+Arch/manjaro `pacman -Syy git`
 Debian/Ubuntu  apt-get update && apt-get -y install git
 Fedora dnf makecache && dnf -y install git
 ```
 
 #### 安装fcix
 ```ruby
-Arch/manjaro { 
+Arch { 
 pacman -Syy fcitx fcitx-configtool fcitx-googlepinyin
 cat << EOF > ~/.xprofile
 export GTK_IM_MODULE=fcitx
@@ -59,8 +59,16 @@ export QT_IM_MODULE=fcitx
 export XMODIFIRS=''@im=fcitx''
 EOF
 }
-Debian/Ubuntu  apt-get update && apt-get -y install fcitx fcitx-googlepinyin
-Fedora dnf makecache && dnf -y install fcitx fcitx-googlepinyin
+
+Debian/Ubuntu {  
+apt-get update 
+apt-get -y install fcitx fcitx-googlepinyin
+}
+
+Fedora { 
+dnf makecache 
+dnf -y install fcitx fcitx-googlepinyin
+}
 ```
 
 
