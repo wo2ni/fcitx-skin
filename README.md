@@ -52,6 +52,8 @@ export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIRS=''@im=fcitx''
 EOF
+修改/etc/gdm/custom.conf
+禁用Wayland,以开启Xorg
 }
 
 Debian/Ubuntu {  
