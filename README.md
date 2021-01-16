@@ -42,14 +42,14 @@
 必须工具,***脑子***和***用心***;
 (***不管你使用任何GNU/Linux发行版,都可以使用此方法,前提你必须安装好下面这些;***)
 
-####安装git
+#### 安装git
 ```ruby
 Arch/manjaro pacman -Syy git
 Debian/Ubuntu  apt-get update && apt-get -y install git
 Fedora dnf makecache && dnf -y install git
 ```
 
-####安装fcix
+#### 安装fcix
 ```ruby
 Arch/manjaro { 
 pacman -Syy fcitx fcitx-configtool fcitx-googlepinyin
