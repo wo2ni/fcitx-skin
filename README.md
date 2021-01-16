@@ -5,9 +5,9 @@
 ### 部分皮肤演示;
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2014/07/02/14042792144232_former.png)
 
-![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/07/23/15638527973670_former.gif)
-
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/10/25/15719976584269_former.png)
+
+![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/07/23/15638527973670_former.gif)
 
 ![image](https://imedl.sogoucdn.com/cache/skins/uploadImage/2019/11/11/15734856135635_former.gif)
 
@@ -44,7 +44,7 @@
 
 #### 安装git
 ```ruby
-Arch/manjaro `pacman -Syy git`
+Arch/manjaro pacman -Syy git
 Debian/Ubuntu  apt-get update && apt-get -y install git
 Fedora dnf makecache && dnf -y install git
 ```
