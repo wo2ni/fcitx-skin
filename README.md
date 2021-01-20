@@ -76,7 +76,7 @@ dnf -y install fcitx fcitx-googlepinyin
 ~/.config/fcitx/conf/fcitx-classic-ui.config  #fcitx皮肤配置文件修改此文件可更换当前用户fcitx皮肤;
 
 复制下面命令在Terminator中运行;
-if [ -d ~/.config/fcitx/skin/ ]; then  git clone https://github.com/MAN999999999/fcitx-skin.git ~/.config/fcitx/skin; else mkdir -p ~/.config/fcitx/skin &&  git clone https://github.com/MAN999999999/fcitx-skin.git ~/.config/fcitx/skin; fi
+if [ -d ~/.config/fcitx/skin/ ]; then  git clone https://github.com/wo2ni/fcitx-skin.git ~/.config/fcitx/skin; else mkdir -p ~/.config/fcitx/skin &&  git clone https://github.com/wo2ni/fcitx-skin.git ~/.config/fcitx/skin; fi
 然后用vim,或nano等,修改~/.config/fcitx/conf/fcitx-classic-ui.config 
 fcitx -r  #重启fcitx
 Enjoy
@@ -86,4 +86,4 @@ Enjoy
 
 |💕Google💕|💕Youtube💕 |💕Github💕 |
 
-- [→ 本人永久的Github地址](https://github.com/MAN999999999/)
+- [→ 本人永久的Github地址](https://github.com/wo2ni)
